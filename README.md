@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yousufrahman020&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yousufrahman020&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufrahman020&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ---
